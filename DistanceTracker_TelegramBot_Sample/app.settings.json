@@ -1,0 +1,4 @@
+{
+  "ConnectionString": "{SQL_CONNECTION_STRING}",
+  "TelegramBotApiKey": "{TELEGRAM_BOT_API_KEY}"
+}
